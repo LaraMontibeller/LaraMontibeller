@@ -2,7 +2,7 @@
 - 
 -   👋 Olá,  eu me chamo  @LaraMontibeller
 -   👍Meu email para contato é lara.montibeller@escola.pr.gov.br
-- 👀 I’m interessada  em aprender a programar novas linguagens 
+- 👀 Eu estou interessada  em aprender a programar novas linguagens 
 - 🌱 Estou aprendendo a  programar  recentemente a lingugem  de JavaScript e Scrath
 
 
